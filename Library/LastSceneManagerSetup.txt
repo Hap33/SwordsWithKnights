@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenes/Scene_Test 2p.unity
+  isLoaded: 1
+  isActive: 1
